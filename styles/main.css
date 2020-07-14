@@ -974,3 +974,21 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
+
+      .post-container .post .post-title {
+        text-align: right;
+      }
+      .post-container .post .post-info {
+        text-align: right;
+      }
+      .post-detail .post .post-title {
+        text-align: right;
+      }
+      .post-detail .post .post-info {
+        text-align: right;
+      }
+    
+      body {
+        font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
+      }
+    
